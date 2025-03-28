@@ -1,5 +1,5 @@
 # Requirements
-- Python 3.6+
+- Python 3.13
 - Required packages:
 ```bash
 python3 -m pip install pandas numpy scikit-learn nltk spacy
